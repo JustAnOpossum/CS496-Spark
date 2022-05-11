@@ -1,0 +1,39 @@
+Clusters:
+Counter({1: 13194, 0: 10849, 3: 10349, 5: 9662, 7: 9023, 6: 8785, 4: 7506, 2: 1063})
+
+Cluster 1 Top words
+
+[('health', 15846), ('study', 13265), ('patients', 11700), ('care', 11404), ('covid', 10784), ('results', 9566), ('data', 8458), ('studies', 6712), ('risk', 6659), ('methods', 6482)]
+
+Cluster 2 Top words
+
+[('health', 14902), ('covid', 7790), ('research', 7712), ('pandemic', 6791), ('social', 6359), ('study', 5868), ('care', 5494), ('public', 5465), ('data', 5397), ('based', 4645)]
+
+Cluster 3 Top words
+
+[('der', 2799), ('und', 2781), ('die', 2731), ('von', 945), ('van', 721), ('des', 714), ('mit', 679), ('den', 676), ('eine', 664), ('das', 590)]
+
+Cluster 4 Top words
+
+[('virus', 9680), ('protein', 5588), ('study', 4999), ('viral', 4934), ('human', 4777), ('based', 4535), ('viruses', 4523), ('cell', 4302), ('results', 4215), ('infection', 3954)]
+
+Cluster 5 Top words
+
+[('cells', 14090), ('cell', 10047), ('expression', 7279), ('protein', 5152), ('immune', 4998), ('induced', 4806), ('infection', 4668), ('mice', 4180), ('virus', 4110), ('role', 3686)]
+
+Cluster 6 Top words
+
+[('patients', 20659), ('covid', 10095), ('disease', 9612), ('infection', 8027), ('clinical', 7785), ('respiratory', 6802), ('treatment', 6424), ('study', 5914), ('associated', 5903), ('risk', 5777)]
+
+Cluster 7 Top words
+
+[('based', 7348), ('data', 7132), ('model', 6326), ('results', 4775), ('learning', 3721), ('time', 3683), ('analysis', 3656), ('method', 3578), ('study', 3493), ('methods', 3368)]
+
+Cluster 8 Top words
+
+[('patients', 31392), ('group', 9156), ('study', 9094), ('results', 8234), ('treatment', 6752), ('surgery', 6077), ('methods', 5988), ('clinical', 5337), ('compared', 4924), ('time', 4919)]
+
+Top Word Count
+
+[('patients', 70393), ('study', 46265), ('results', 38927)]
+
