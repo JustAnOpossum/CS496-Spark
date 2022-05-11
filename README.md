@@ -32,3 +32,4 @@ https://pypi.org/project/langdetect/
 https://www.adamsmith.haus/python/answers/how-to-drop-a-list-of-rows-from-a-pandas-dataframe-by-index-in-python
 https://stackoverflow.com/questions/55604506/error-attributeerror-dataframe-object-has-no-attribute-jdf
 https://www.delftstack.com/howto/python/python-output-to-file/
+https://docs.python.org/3/library/collections.html
